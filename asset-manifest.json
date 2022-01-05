@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/project_name/static/css/main.cbb686fa.css",
+    "main.js": "/project_name/static/js/main.93a89ca9.js",
+    "static/js/787.2202ae27.chunk.js": "/project_name/static/js/787.2202ae27.chunk.js",
+    "static/media/guille-pozzi-sbcIAn4Mn14-unsplash.jpg": "/project_name/static/media/guille-pozzi-sbcIAn4Mn14-unsplash.c9445306beeb1e00c37b.jpg",
+    "static/media/Star Jedi V2.woff": "/project_name/static/media/Star Jedi V2.6330dc79c4f72d07e3da.woff",
+    "index.html": "/project_name/index.html",
+    "main.cbb686fa.css.map": "/project_name/static/css/main.cbb686fa.css.map",
+    "main.93a89ca9.js.map": "/project_name/static/js/main.93a89ca9.js.map",
+    "787.2202ae27.chunk.js.map": "/project_name/static/js/787.2202ae27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbb686fa.css",
+    "static/js/main.93a89ca9.js"
+  ]
+}
