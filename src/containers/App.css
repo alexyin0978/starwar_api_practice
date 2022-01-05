@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Star Jedi V2';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Star Jedi V2'), url('Star Jedi V2.woff') format('woff');
+  }
+
+h1{
+  font-family: 'Star Jedi V2';
+}
+
+html { 
+  background: url(guille-pozzi-sbcIAn4Mn14-unsplash.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
